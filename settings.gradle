@@ -1,0 +1,2 @@
+include ':app', ':lakhanpal_library'
+rootProject.name='Mohit_Made_Animination'
